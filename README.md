@@ -1,6 +1,6 @@
 # Higor Henrick🖥️
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Higor Henrick, tenho 16 anos e sou de Cafelândia.Estou no ensino médio da ETEC, com o curso técnico em Analise e Desenvolvimento de Sistemas.
 
